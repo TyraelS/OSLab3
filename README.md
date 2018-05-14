@@ -1,2 +1,2 @@
 # OSLab3
-![](master/screenshot.png)
+![](screenshot.png)
